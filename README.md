@@ -1,6 +1,6 @@
-![Margarita Banner](https://raw.github.com/woainikk/woainikk/master/github.png)
+![Margarita Banner](https://raw.github.com/woainikk/kotlin-banner/master/github.png)
 
-## <img width="45" alt="about" src="https://raw.github.com/woainikk/woainikk/master/about.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/woainikk/kotlin-banner/master/about.png"> More about me
 ```kotlin
 val woainikk = developer {
     about {
