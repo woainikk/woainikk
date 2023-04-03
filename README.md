@@ -6,9 +6,9 @@ val woainikk = developer {
     about {
         name = "Margarita"
         company = JetBrains
-        role = Support_Engineer
+        role = Release_Engineer
     }
-    tech("Kotlin", "Spring")
+    tech("Kotlin", "TeamCity")
     links {
         twitter = "@qwiuomi"
         instagram = "woaini.kk"
