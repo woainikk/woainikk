@@ -8,10 +8,5 @@ val woainikk = developer {
         company = JetBrains
         role = Release_Engineer
     }
-    tech("Kotlin", "TeamCity")
-    links {
-        twitter = "@qwiuomi"
-        instagram = "woaini.kk"
-    }
 }
 ```
